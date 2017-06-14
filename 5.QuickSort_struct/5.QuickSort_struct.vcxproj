@@ -22,6 +22,7 @@
     <ProjectGuid>{89CA9F1E-854F-4A1A-9319-803A12F8B46C}</ProjectGuid>
     <RootNamespace>My5QuickSort_struct</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>05.QuickSort_struct</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

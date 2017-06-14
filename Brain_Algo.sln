@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.BinaryTree", "4.BinaryTree\4.BinaryTree.vcxproj", "{FA8A50B0-966F-46AF-9DAA-8BA4C9F05FF9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04.BinaryTree", "4.BinaryTree\4.BinaryTree.vcxproj", "{FA8A50B0-966F-46AF-9DAA-8BA4C9F05FF9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6. BinarySearch", "6. BinarySearch\6. BinarySearch.vcxproj", "{451370AA-227B-4498-9D7E-7F88043DCCCF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06. BinarySearch", "6. BinarySearch\6. BinarySearch.vcxproj", "{451370AA-227B-4498-9D7E-7F88043DCCCF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6. BinarySearchTree", "6. BinarySearchTree\6. BinarySearchTree.vcxproj", "{D38938CE-FEF8-455B-8D54-AC243D2903E9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06. BinarySearchTree", "6. BinarySearchTree\6. BinarySearchTree.vcxproj", "{D38938CE-FEF8-455B-8D54-AC243D2903E9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.DoubleLinkedList", "1.DoubleLinkedList\DoubleLinkedList.vcxproj", "{4AFFAC58-7DEC-4CA3-BABB-1356A7517FEF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01.DoubleLinkedList", "1.DoubleLinkedList\DoubleLinkedList.vcxproj", "{4AFFAC58-7DEC-4CA3-BABB-1356A7517FEF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.LinkedListStack", "2.LinkedListStack\LinkedListStack.vcxproj", "{AF2F8EBB-C8CB-4613-9FC2-433FC7945270}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02.LinkedListStack", "2.LinkedListStack\LinkedListStack.vcxproj", "{AF2F8EBB-C8CB-4613-9FC2-433FC7945270}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.LinkedQueue", "3.LinkedQueue\LinkedQueue.vcxproj", "{1003D1AD-3090-469C-9FB7-A3F0E6A62FD2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03.LinkedQueue", "3.LinkedQueue\LinkedQueue.vcxproj", "{1003D1AD-3090-469C-9FB7-A3F0E6A62FD2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.QuickSort", "5.QuickSort\5.QuickSort.vcxproj", "{80590A8C-C57D-4E9C-AAB1-1714C2538288}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05.QuickSort", "5.QuickSort\5.QuickSort.vcxproj", "{80590A8C-C57D-4E9C-AAB1-1714C2538288}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.QuickSort_struct", "5.QuickSort_struct\5.QuickSort_struct.vcxproj", "{89CA9F1E-854F-4A1A-9319-803A12F8B46C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05.QuickSort_struct", "5.QuickSort_struct\5.QuickSort_struct.vcxproj", "{89CA9F1E-854F-4A1A-9319-803A12F8B46C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.Heap_Queue", "7.Heap_Queue\7.Heap_Queue.vcxproj", "{C64F8E4E-3D4F-459F-A1AA-D1D7DA9B18E3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12.MergeSort", "MergeSort\MergeSort.vcxproj", "{356595B1-9F30-4EEE-BFFD-EE3390DDEF4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,14 +93,14 @@ Global
 		{89CA9F1E-854F-4A1A-9319-803A12F8B46C}.Release|x64.Build.0 = Release|x64
 		{89CA9F1E-854F-4A1A-9319-803A12F8B46C}.Release|x86.ActiveCfg = Release|Win32
 		{89CA9F1E-854F-4A1A-9319-803A12F8B46C}.Release|x86.Build.0 = Release|Win32
-		{C64F8E4E-3D4F-459F-A1AA-D1D7DA9B18E3}.Debug|x64.ActiveCfg = Debug|x64
-		{C64F8E4E-3D4F-459F-A1AA-D1D7DA9B18E3}.Debug|x64.Build.0 = Debug|x64
-		{C64F8E4E-3D4F-459F-A1AA-D1D7DA9B18E3}.Debug|x86.ActiveCfg = Debug|Win32
-		{C64F8E4E-3D4F-459F-A1AA-D1D7DA9B18E3}.Debug|x86.Build.0 = Debug|Win32
-		{C64F8E4E-3D4F-459F-A1AA-D1D7DA9B18E3}.Release|x64.ActiveCfg = Release|x64
-		{C64F8E4E-3D4F-459F-A1AA-D1D7DA9B18E3}.Release|x64.Build.0 = Release|x64
-		{C64F8E4E-3D4F-459F-A1AA-D1D7DA9B18E3}.Release|x86.ActiveCfg = Release|Win32
-		{C64F8E4E-3D4F-459F-A1AA-D1D7DA9B18E3}.Release|x86.Build.0 = Release|Win32
+		{356595B1-9F30-4EEE-BFFD-EE3390DDEF4D}.Debug|x64.ActiveCfg = Debug|x64
+		{356595B1-9F30-4EEE-BFFD-EE3390DDEF4D}.Debug|x64.Build.0 = Debug|x64
+		{356595B1-9F30-4EEE-BFFD-EE3390DDEF4D}.Debug|x86.ActiveCfg = Debug|Win32
+		{356595B1-9F30-4EEE-BFFD-EE3390DDEF4D}.Debug|x86.Build.0 = Debug|Win32
+		{356595B1-9F30-4EEE-BFFD-EE3390DDEF4D}.Release|x64.ActiveCfg = Release|x64
+		{356595B1-9F30-4EEE-BFFD-EE3390DDEF4D}.Release|x64.Build.0 = Release|x64
+		{356595B1-9F30-4EEE-BFFD-EE3390DDEF4D}.Release|x86.ActiveCfg = Release|Win32
+		{356595B1-9F30-4EEE-BFFD-EE3390DDEF4D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

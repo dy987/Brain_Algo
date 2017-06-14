@@ -22,6 +22,7 @@
     <ProjectGuid>{C64F8E4E-3D4F-459F-A1AA-D1D7DA9B18E3}</ProjectGuid>
     <RootNamespace>My7Heap_Queue</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>07.Heap_Queue</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

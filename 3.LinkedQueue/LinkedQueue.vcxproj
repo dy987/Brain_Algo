@@ -22,7 +22,7 @@
     <ProjectGuid>{1003D1AD-3090-469C-9FB7-A3F0E6A62FD2}</ProjectGuid>
     <RootNamespace>LinkedQueue</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>3.LinkedQueue</ProjectName>
+    <ProjectName>03.LinkedQueue</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

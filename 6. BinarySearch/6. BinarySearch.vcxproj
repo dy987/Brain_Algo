@@ -22,6 +22,7 @@
     <ProjectGuid>{451370AA-227B-4498-9D7E-7F88043DCCCF}</ProjectGuid>
     <RootNamespace>My6BinarySearch</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>06. BinarySearch</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

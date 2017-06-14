@@ -25,10 +25,6 @@ void DLL_AppendNode( Node** Head, Node* NewNode )
 	if ((*Head) == NULL)
 	{
 		*Head = NewNode;
-		printf("\nHead의 주소: %8p\n", &(Head));
-		printf("Head의 값  : %8p\n\n", Head);
-		printf("*Head의 주소: %8p\n", &(*Head));
-		printf("*Head의 값  : %8p\n\n", *Head);
 	}
     else
     {

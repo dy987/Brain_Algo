@@ -22,7 +22,7 @@
     <ProjectGuid>{4AFFAC58-7DEC-4CA3-BABB-1356A7517FEF}</ProjectGuid>
     <RootNamespace>DoubleLinkedList</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>1.DoubleLinkedList</ProjectName>
+    <ProjectName>01.DoubleLinkedList</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
